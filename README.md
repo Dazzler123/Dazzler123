@@ -14,6 +14,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left">
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
+</a>
+
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="html" width="60" height="60"/></a> 
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="css" width="60" height="80"/></a> 
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="javascript" width="60" height="60"/></a> 
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="python" width="60" height="60"/></a> 
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" alt="intelliJ" width="60" height="60"/></a>
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="pycharm" width="60" height="60"/></a> 
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="80"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazzler123&show_icons=true&locale=en&layout=compact" alt="dazzler123" /></p>
