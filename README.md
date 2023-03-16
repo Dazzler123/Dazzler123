@@ -7,11 +7,10 @@
   
 
 ### <div align="center">A Full-Stack Developer 👨‍💻</div>  
-##### ***<div align="center">🎵☕✨ All I need is my playlist and a cup of tea</div>***  
-
-- ###### [👉 Check out my personal portfolio website](http://dazzlerdemo.infinityfreeapp.com/?i=1)  
+##### ***<div align="center">🎵☕ All I need is my playlist and a cup of tea ✨</div>***<br>
+- #### [👉 Check out my personal portfolio website](http://dazzlerdemo.infinityfreeapp.com/?i=1)  
   
-- ###### ❓ Ask me anything from the below technologies 👇  
+- #### ❓ Ask me anything from the below technologies 👇  
   
 <br/>  
 
