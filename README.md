@@ -8,7 +8,7 @@
 
 ### <div align="center">A Full-Stack Developer 👨‍💻</div>  
 ##### ***<div align="center">🎵☕ All I need is my playlist and a cup of tea ✨</div>***<br>
-- #### [👉 Check out my personal portfolio website](http://dazzlerdemo.infinityfreeapp.com/?i=1)  
+- #### [👉 Check out my personal portfolio website (updated version coming soon..)](http://google.com)  
   
 - #### ❓ Ask me anything from the below technologies 👇  
   
