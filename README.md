@@ -7,8 +7,7 @@
   
 
 ### <div align="center">A Full-Stack Developer 👨‍💻</div>  
-##### ***<div align="center">🎵☕ All I need is my playlist and a cup of tea ✨</div>***<br>
-- #### ❓ Ask me anything from the below technologies 👇  
+##### ***<div align="center">🎵☕ All I need is my playlist and a cup of tea ✨</div>***<br> 
   
 <br/>  
 
