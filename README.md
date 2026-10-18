@@ -1,6 +1,6 @@
 # Hi, I'm Dasindu Hewagamage 👋
 
-### Associate Software Engineer | Java & Spring Boot | Enterprise Application Development
+### Software Engineer | Java & Spring Boot | Enterprise Application Development
 
 I am a Software Engineer passionate about building reliable, scalable applications using **Java, Spring Boot, and modern full-stack technologies**. I enjoy designing REST APIs, developing backend systems, and exploring software architecture and cloud technologies.
 
