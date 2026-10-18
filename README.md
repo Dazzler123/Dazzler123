@@ -7,7 +7,7 @@ I am a Software Engineer passionate about building reliable, scalable applicatio
 Beyond application development, I am interested in **AI-powered solutions, machine learning, and intelligent automotive systems**. I enjoy turning ideas into practical projects, experimenting with new technologies, and continuously improving my engineering skills.
 
 <p align="center">
-  <a href="[https://your-portfolio-domain.com](https://github.com/Dazzler123/My-Personal-Portfolio-Website-v3.0)">
+  <a href="[https://dasinduhewagamage.vercel.app/](https://github.com/Dazzler123/My-Personal-Portfolio-Website-v3.0)">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio" />
   </a>
 </p>
