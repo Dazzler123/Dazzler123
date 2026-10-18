@@ -100,6 +100,44 @@ A multi-role car rental web application developed to manage vehicle rentals and 
   </a>
 </p>
 
+### 3. Pahana Edu Bookshop — Java EE Web Application
+
+A comprehensive bookshop management system built using Java EE to manage customers, inventory, orders, billing, and business reporting.
+
+**Technologies:** Java EE, Servlets, JSP, MySQL, JavaScript, jQuery, Bootstrap 5, Maven
+
+- 👥 **Customer Management:** Manage customer information and unique account numbers.
+- 📦 **Inventory Management:** Track items, prices, stock levels, and availability.
+- 🛒 **Order Processing:** Handle multi-item orders, payment tracking, and order statuses.
+- 🧾 **PDF Bill Generation:** Generate bills for completed orders using Apache PDFBox.
+- 📊 **Dashboard & Reports:** Display sales statistics, top-selling items, and filtered reports.
+- 🔌 **Backend Development:** Implement RESTful endpoints, data access objects, and business logic.
+- 🧪 **Testing:** Use JUnit 5 and Mockito for testing.
+
+<p align="center">
+  <a href="https://github.com/Dazzler123/Pahana-Edu-Bookshop-JavaEE">
+    <img src="https://img.shields.io/badge/Java_EE-View_Repository-181717?style=for-the-badge&logo=github" alt="Pahana Edu Bookshop Repository" />
+  </a>
+</p>
+
+### 4. Automobile Workshop Management System — JavaFX Desktop Application
+
+This project marked an early stage of my software development journey, applying Java programming, object-oriented programming principles, and MySQL database integration to an automotive workshop management system.
+
+**Technologies:** Java, JavaFX, Object-Oriented Programming (OOP), MySQL
+
+- 🏍️ **Automotive Domain:** Focuses on workshop management processes.
+- ☕ **Java Development:** Applies core Java programming concepts.
+- 🧩 **Object-Oriented Design:** Demonstrates the application of OOP principles.
+- 🗄️ **Database Integration:** Uses MySQL for data persistence.
+- 🖥️ **Standalone Application:** Reflects my early experience developing desktop-based software before moving into web and full-stack development.
+
+<p align="center">
+  <a href="https://github.com/Dazzler123/Automobile-Workshop-Management-System">
+    <img src="https://img.shields.io/badge/Automobile_Workshop-View_Repository-181717?style=for-the-badge&logo=github" alt="Automobile Workshop Management System Repository" />
+  </a>
+</p>
+
 ---
 
 ## 🔮 Upcoming Projects
@@ -136,10 +174,6 @@ The project is being developed incrementally, with the initial phase focused on 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dazzler123&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dazzler123&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
