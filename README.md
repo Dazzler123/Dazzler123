@@ -1,70 +1,171 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width:100%; height: 46vh;"/>
-</div>  
-  
+# Hi, I'm Dasindu Hewagamage 👋
 
-# <div align="center">I'm Dasindu Hewagamage</div>  
-  
+### Associate Software Engineer | Java & Spring Boot | Enterprise Application Development
 
-### <div align="center">A Full-Stack Developer 👨‍💻</div>  
-##### ***<div align="center">🎵☕ All I need is my playlist and a cup of tea ✨</div>***<br> 
-  
-<br/>  
+I am a Software Engineer passionate about building reliable, scalable applications using **Java, Spring Boot, and modern full-stack technologies**. I enjoy designing REST APIs, developing backend systems, and exploring software architecture and cloud technologies.
 
+Beyond application development, I am interested in **AI-powered solutions, machine learning, and intelligent automotive systems**. I enjoy turning ideas into practical projects, experimenting with new technologies, and continuously improving my engineering skills.
 
-## My Skills
-<table><tr style="border: none;"><td valign="top" width="33%">
+- 🔭 **Currently working on:** Personal software projects and backend development
+- 💻 **Core expertise:** Java, Spring Boot, REST APIs, Hibernate/JPA, and MySQL
+- ☁️ **Exploring:** Spring AI, system design and software architectures
+- 🤖 **AI project:** AutoAssess — AI-powered vehicle damage detection and repair-cost estimation
+- 🚘 **Upcoming project:** DrivePulse — A Digital Vehicle Health and Lifecycle Intelligence Platform
+- 🎵 **Off the clock:** All I need is my playlist and a cup of tea ☕
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>    
-</div></td></tr></table>  
-<br/>  
+---
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazzler123&hide_border=true&layout=compact" align="left" />  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dazzler123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Dazzler123&&style=flat-square" align="center" />
-</div>  
-<br/>
+## 🛠️ Technical Skills
 
-## Connect with me
-<a href="404" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/whatsapp-%231E77B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" alt=whatsapp style="margin-bottom: 5px;" />
-</a>
-<a href="dasinduhewagamage@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/dasindu.hewagamage" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dasindu_octane.95" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@59Dasindu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dasindu-hewagamage-a92961205/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br/>  
-<br/> 
-<br/> 
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,python" alt="Backend technologies" />
+</p>
+
+- Java, Spring Boot, Spring MVC, Java EE
+- Spring Data JPA, Hibernate, JDBC
+- RESTful APIs, JSON, authentication and authorization
+- Node.js, Express.js, Python, Flask, FastAPI
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,react,flutter,html" alt="Frontend technologies" />
+</p>
+
+- Angular, JavaScript, TypeScript, React, Flutter
+- HTML5, CSS3, Bootstrap, Tailwind CSS
+- jQuery and responsive UI development
+
+### Databases & Data Processing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database technologies" />
+</p>
+
+- MySQL, PostgreSQL, MongoDB
+- Relational and non-relational database design
+- SQL, query optimization, and data validation
+- Hibernate ORM and transaction management
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,pytorch" alt="AI and machine learning technologies" />
+</p>
+
+- YOLOv8 object detection
+- Scikit-learn and Random Forest
+- Computer vision and image processing
+- Machine learning model integration with application backends
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AutoAssess — AI-Powered Vehicle Damage Detection System
+
+An AI-powered application that detects vehicle damage from images and estimates repair costs.
+
+**Technologies:** Flutter, Python, Flask, YOLOv8, Scikit-learn, Random Forest
+
+- Detects vehicle damage and identifies affected vehicle parts.
+- Estimates damage severity using detection confidence.
+- Predicts repair costs using vehicle and part information.
+- Integrates AI models into a mobile application through REST APIs.
+
+<p align="center">
+  <a href="https://github.com/Dazzler123/Autoassess-Frontend">
+    <img src="https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github" alt="AutoAssess Frontend Repository" />
+  </a>
+  <a href="https://github.com/Dazzler123/Autoassess-Backend">
+    <img src="https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github" alt="AutoAssess Backend Repository" />
+  </a>
+</p>
+
+### 2. Car Rental System — Spring Web MVC
+
+A multi-role car rental web application developed to manage vehicle rentals and business operations.
+
+**Technologies:** Java, Spring Web MVC, Spring Data JPA, Hibernate, MySQL, Bootstrap, jQuery
+
+- Implements customer, administrator, and driver workflows.
+- Supports vehicle management, rental requests, and payment calculations.
+- Uses a layered application architecture and relational persistence.
+
+<p align="center">
+  <a href="https://github.com/Dazzler123/Car-Rental-System-Spring-Web-MVC">
+    <img src="https://img.shields.io/badge/Car_Rental_System-View_Repository-181717?style=for-the-badge&logo=github" alt="Car Rental System Repository" />
+  </a>
+</p>
+
+---
+
+## 🔮 Upcoming Projects
+
+### DrivePulse — A Digital Vehicle Health and Lifecycle Intelligence Platform
+
+**Status:** Private Repository · Under Development
+
+DrivePulse is an upcoming automotive technology platform focused on helping vehicle owners understand, manage, and maintain their vehicles throughout their ownership lifecycle.
+
+**Planned technologies:** Java, Spring Boot, Spring Security, PostgreSQL, JWT, and Spring AI.
+
+**Planned capabilities:**
+
+- 🤖 **AI-Assisted Diagnostics:** Help vehicle owners understand potential vehicle issues and preliminary diagnostic information.
+- 🔧 **Maintenance Tracking:** Organize maintenance schedules and vehicle servicing records.
+- 📊 **Vehicle Health Scoring:** Provide an overview of vehicle condition and maintenance needs.
+- 📋 **Digital Vehicle Records:** Maintain vehicle history and service information over time.
+- 🔄 **Ownership Transfer:** Support the transfer of digital vehicle records to subsequent owners.
+- 🛠️ **Service Management:** Connect vehicle owners with mechanics and service providers.
+
+The project is being developed incrementally, with the initial phase focused on authentication, user management, and the backend foundation. Additional capabilities will be introduced as development progresses.
+
+*More updates coming as the project evolves.*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dazzler123&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazzler123&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dazzler123&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dazzler123&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dasindu-hewagamage-a92961205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dasinduhewagamage@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Dazzler123">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/dasindu.hewagamage">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/dasindu_octane.95">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable software, exploring new ideas, and turning code into meaningful solutions.</i>
+</p>
